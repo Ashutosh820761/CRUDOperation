@@ -170,3 +170,4 @@ C:\Users\ASUS\Desktop\.NET\CRUDOperations\obj\Debug\net8.0\refint\CRUDOperations
 C:\Users\ASUS\Desktop\.NET\CRUDOperations\obj\Debug\net8.0\CRUDOperations.pdb
 C:\Users\ASUS\Desktop\.NET\CRUDOperations\obj\Debug\net8.0\CRUDOperations.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\.NET\CRUDOperations\obj\Debug\net8.0\ref\CRUDOperations.dll
+C:\Users\ASUS\Desktop\.NET\CRUDOperations\obj\Debug\net8.0\CRUDOperations.sourcelink.json

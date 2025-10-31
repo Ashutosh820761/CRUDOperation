@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0329E8BA-AB49-4836-959B-77583776F6C6}|CRUDOperations.csproj|c:\\users\\asus\\desktop\\.net\\crudoperations\\controllers\\customerreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0329E8BA-AB49-4836-959B-77583776F6C6}|CRUDOperations.csproj|solutionrelative:controllers\\customerreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0329E8BA-AB49-4836-959B-77583776F6C6}|CRUDOperations.csproj|c:\\users\\asus\\desktop\\.net\\crudoperations\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{0329E8BA-AB49-4836-959B-77583776F6C6}|CRUDOperations.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -75,6 +79,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CustomerReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\Controllers\\CustomerReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerReviewController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\Controllers\\CustomerReviewController.cs",
+              "RelativeToolTip": "Controllers\\CustomerReviewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:58:44.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentDTO.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\DTO\\StudentDTO.cs",
               "RelativeDocumentMoniker": "DTO\\StudentDTO.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MyContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\Model\\MyContext.cs",
               "RelativeDocumentMoniker": "Model\\MyContext.cs",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CRUDOperations.http",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\CRUDOperations.http",
               "RelativeDocumentMoniker": "CRUDOperations.http",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -147,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\Model\\Student.cs",
               "RelativeDocumentMoniker": "Model\\Student.cs",
@@ -159,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
@@ -171,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "20251029111059_create7.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\Migrations\\20251029111059_create7.cs",
               "RelativeDocumentMoniker": "Migrations\\20251029111059_create7.cs",
@@ -183,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "20251029111217_create9.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\Migrations\\20251029111217_create9.cs",
               "RelativeDocumentMoniker": "Migrations\\20251029111217_create9.cs",
@@ -195,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20251029093917_create.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\Migrations\\20251029093917_create.cs",
               "RelativeDocumentMoniker": "Migrations\\20251029093917_create.cs",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CRUDOperations.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\CRUDOperations.csproj",
               "RelativeDocumentMoniker": "CRUDOperations.csproj",
@@ -219,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -231,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NET\\CRUDOperations\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
